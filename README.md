@@ -97,7 +97,7 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 ## OUTPUT:
 ### CLIENT OUTPUT:
 
-[Client.py](https://github.com/user-attachments/files/22041140/Client.py)
+<img width="1919" height="1079" alt="output client" src="https://github.com/user-attachments/assets/8356e325-2d29-46a8-b288-2e81b4e9da0e" />
 
 ### SERVER OUTPUT:
 
