@@ -104,4 +104,4 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 <img width="1919" height="1079" alt="output server" src="https://github.com/user-attachments/assets/676eb683-c179-4011-8db1-df31f1415554" />
 
 ## RESULT:
-The program is executed succesfully
+The program is executed succesfully 
